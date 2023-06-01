@@ -20,9 +20,8 @@ LANDFIRE's [Existing Vegetation Type, Cover and Height](https://landfire.gov/veg
 ## Summary
 
 * The Colorado Plateau Pinyon-Juniper Woodland is the most prevalent ecosystem mapped on the landscape today at ~15%.
-* No converted land uses (e.g., agriculture or developed) are represented in the top 10 EVTs.  
-* Most shrubs and tree vegetation has relativity low canopy cover (i.e., 10 - 50%).  
-* Most trees are less than 20M; most shrubs are in the tallest category, 1 - 5M.
+* No converted land uses (i.e., agriculture or developed) are represented in the top 10 EVTs.  
+* Most shrubs and tree vegetation have relativity low canopy cover (i.e., 10 - 50%).  
 
 ## Most Prevalent Existing Vegetation Types
 
@@ -172,7 +171,7 @@ evcChart
 ## Existing Vegetation Height
 The Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height.
 
-From these results, most trees are between 1 - 20M tall and most shrubs are between 1 - 5M tall.
+From these results, most trees are between 1 - 20m tall and most shrubs are between 1 - 5m tall.
 
 ![](images/evh.jpg){width=100%}
 <br>

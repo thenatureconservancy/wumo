@@ -1,6 +1,6 @@
 ---
 title: "Wasatch and Uinta Mountains Subregion Landscape Assessment"
-author: "TNC’s LANDFIRE Team, Conservation Data Lab"
+author: "TNC’s LANDFIRE Team, plus Josh Muchler of the Conservation Data Lab"
 ---
 
 ## Goals of this quick demonstration

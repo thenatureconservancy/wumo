@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About this Project",
     "section": "",
-    "text": "The data compiled for this Southern Rockies Fire Science Network “Subregion” is the result of a volunteer project that supports information dissemination and natural resource management decisions within the 6 subregions of the SRFSN. Why subregions? Learn more here"
+    "text": "The data compiled for this Southern Rockies Fire Science Network “Subregion” is the result of a volunteer project that supports information dissemination and natural resource management decisions within the 5 subregions of the SRFSN. Why subregions? Learn more here."
   },
   {
     "objectID": "about.html#the-nature-conservancy-landfire",
@@ -46,14 +46,14 @@
     "href": "comparing.html#comparing-broad-vegetation-trends",
     "title": "Comparisons",
     "section": "Comparing Broad Vegetation Trends",
-    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nBroadly speaking, this subregion has not experienced significant ecosystem conversion to agricultural or urban land uses.\n\nLANDFIRE mapped a fair amount of change in the “Past Shrubland” category, with a fair bit mapped as “Conifer” today.\nAlmost all of today’s exotic vegetation was mapped on former shrubland areas."
+    "text": "Comparing Broad Vegetation Trends\n\nSummary\n\nBroadly speaking, this subregion has not experienced significant ecosystem conversion to agricultural or urban land uses.\n\nLANDFIRE mapped a fair amount of conversion from “past shrubland” to “conifer”.\n\nNearly all of the land classified as present day “exotic vegetation” was converted from shrubland areas."
   },
   {
     "objectID": "comparing.html#succession-classes-for-most-dominant-bpss",
     "href": "comparing.html#succession-classes-for-most-dominant-bpss",
     "title": "Comparisons",
     "section": "Succession classes for most dominant BpSs",
-    "text": "Succession classes for most dominant BpSs\n\nSuccession classes have changed substantially in the Inter-Mountain Basins Montane Sagebrush Steppe - Mountain Big Sagebrush BpS, with a substantial over representation of succession class C currently, and in the Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland - High Elevation BpS with over representation of succession class D currently.\nSome BpSs appear to be missing succession classes on the landscape today, such as the Colorado Plateau Pinyon-Juniper Woodland which is missing succession class B."
+    "text": "Succession classes for most dominant BpSs\n\nSuccession classes have changed substantially in the Inter-Mountain Basins Montane Sagebrush Steppe - Mountain Big Sagebrush BpS, with significant overrepresentation of succession class C currently.\nSome BpSs appear to be missing succession classes on the landscape today, such as the Colorado Plateau Pinyon-Juniper Woodland which is missing succession class B."
   },
   {
     "objectID": "index.html",
@@ -88,7 +88,7 @@
     "href": "past.html#summary",
     "title": "Past: Historical Ecosystems",
     "section": "Summary",
-    "text": "Summary\n\nLANDFIRE mapped 70 unique BpSs in the Wasatch and Uinta Mountains Subregion. The top 10 represented ~70% of the area.\nInter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush was dominant, comprising ~15% of the landscape.\nLANDFIRE models estimate that there would have been > 240k acres of fire every year prior to European colonization.\n\nScroll down to explore the “historical disturbances per ecosystem” using the interactive web app."
+    "text": "Summary\n\nLANDFIRE mapped 70 unique BpSs in the Wasatch and Uinta Mountains Subregion. The top 10 represented ~70% of the area.\nPrior to European colonization the Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush was dominant, comprising ~15% of the landscape.\nLANDFIRE models estimate that historically there would have been > 240k acres of fire every year prior to European colonization.\n\nScroll down to explore the “historical disturbances per ecosystem” using the interactive web app."
   },
   {
     "objectID": "past.html#most-prevalent-biophysical-settings",
@@ -137,7 +137,7 @@
     "href": "present.html#summary",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Summary",
-    "text": "Summary\n\nThe Colorado Plateau Pinyon-Juniper Woodland is the most prevalent ecosystem mapped on the landscape today at ~15%.\nNo converted land uses (e.g., agriculture or developed) are represented in the top 10 EVTs.\n\nMost shrubs and tree vegetation has relativity low canopy cover (i.e., 10 - 50%).\n\nMost trees are less than 20M; most shrubs are in the tallest category, 1 - 5M."
+    "text": "Summary\n\nThe Colorado Plateau Pinyon-Juniper Woodland is the most prevalent ecosystem mapped on the landscape today at ~15%.\nNo converted land uses (i.e., agriculture or developed) are represented in the top 10 EVTs.\n\nMost shrubs and tree vegetation have relativity low canopy cover (i.e., 10 - 50%)."
   },
   {
     "objectID": "present.html#most-prevalent-existing-vegetation-types",
@@ -165,6 +165,6 @@
     "href": "present.html#existing-vegetation-height",
     "title": "Present: Current Ecosystem Conditions",
     "section": "Existing Vegetation Height",
-    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height.\nFrom these results, most trees are between 1 - 20M tall and most shrubs are between 1 - 5M tall."
+    "text": "Existing Vegetation Height\nThe Existing Vegetation Height (EVH) map showcases EVH across the subregion. The chart below the map provides the percentage of the landscape represented by each EVH height.\nFrom these results, most trees are between 1 - 20m tall and most shrubs are between 1 - 5m tall."
   }
 ]

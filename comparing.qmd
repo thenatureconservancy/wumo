@@ -24,8 +24,8 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 ### Summary
 
 * Broadly speaking, this subregion has not experienced significant ecosystem conversion to agricultural or urban land uses.  
-* LANDFIRE mapped a fair amount of change in the "Past Shrubland" category, with a fair bit mapped as "Conifer" today. 
-* Almost all of today's exotic vegetation was mapped on former shrubland areas. 
+* LANDFIRE mapped a fair amount of conversion from "past shrubland" to "conifer".  
+* Nearly all of the land classified as present day “exotic vegetation” was converted from shrubland areas. 
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # read in data
@@ -93,7 +93,7 @@ htmlwidgets::saveWidget(chord,
 <br>
 
 ## Succession classes for most dominant BpSs
-- Succession classes have changed substantially in the Inter-Mountain Basins Montane Sagebrush Steppe - Mountain Big Sagebrush BpS, with a substantial over representation of succession class C currently, and in the Inter-Mountain Basins Aspen-Mixed Conifer Forest and Woodland - High Elevation BpS with over representation of succession class D currently. 
+- Succession classes have changed substantially in the Inter-Mountain Basins Montane Sagebrush Steppe - Mountain Big Sagebrush BpS, with significant overrepresentation of succession class C currently.
 - Some BpSs appear to be missing succession classes on the landscape today, such as the Colorado Plateau Pinyon-Juniper Woodland which is missing succession class B.  
 
 

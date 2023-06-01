@@ -14,8 +14,8 @@ Use this page as a starting point to explore the most prevalent BpSs in the SRFS
 ## Summary
 
 * LANDFIRE mapped 70 unique BpSs in the Wasatch and Uinta Mountains Subregion.  The top 10 represented ~70% of the area.
-* Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush was dominant, comprising ~15% of the landscape.
-* LANDFIRE models estimate that there would have been > 240k acres of fire every year prior to European colonization. 
+* Prior to European colonization the [Inter-Mountain Basins Montane Sagebrush Steppe-Mountain Big Sagebrush](https://landfirereview.org/search.php?q=Inter-Mountain%20Basins%20Montane%20Sagebrush%20Steppe-Mountain%20Big%20Sagebrush&hPP=20&idx=lf_landfire_dev&p=0&is_v=1){target="blank"} was dominant, comprising ~15% of the landscape.
+* LANDFIRE models estimate that historically there would have been > 240k acres of fire every year prior to European colonization. 
 
 Scroll down to explore the "historical disturbances per ecosystem" using the interactive web app.
 
@@ -97,6 +97,7 @@ ggsave("./OUTPUTS/fireChart.png", width = 12, height = 5)
 
 ![](images/mfri.jpg){width=100%}
 
+<br>
 
 ## Historical Disturbances (per ecosystem)
 
