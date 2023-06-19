@@ -26,6 +26,7 @@ Using LANDFIRE’s BpS products, we explore two different ways to visualize past
 * Broadly speaking, this subregion has not experienced significant ecosystem conversion to agricultural or urban land uses.  
 * LANDFIRE mapped a fair amount of conversion from "past shrubland" to "conifer".  
 * Nearly all of the land classified as present day “exotic vegetation” was converted from shrubland areas. 
+* Note: number presented when hovering equals acres.
 
 ```{r chord, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 # read in data
