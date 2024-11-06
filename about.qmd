@@ -1,7 +1,7 @@
 ---
 title: "About this Project"
 ---
-The data compiled for this Southern Rockies Fire Science Network "Subregion" is the result of a volunteer project that supports information dissemination and natural resource management decisions within the 5 subregions of the SRFSN. Why subregions? [Learn more here](https://www.southernrockiesfirescience.org/why-subregions/){target="blank"}.
+The data compiled for this Southern Rockies Fire Science Network "Subregion" is the result of a volunteer project that supports information dissemination and natural resource management decisions within the six subregions of the SRFSN. Why subregions? [Learn more here](https://www.southernrockiesfirescience.org/why-subregions/){target="blank"}.
 
 ## The Nature Conservancy & LANDFIRE
 
@@ -20,7 +20,7 @@ The dynamic members of the [Conservation Data Lab](https://conservationdatalab.o
 
 Check out the CDL's [2022 Accomplishments here](https://conservationdatalab.org/year_end_2022.html){target="blank"}. 
 
-CDL members donated their time to complete this web app for the SRFSN. Projects like these provide real-life opportunities to apply new techniques to answer common natural resource questions. A big thanks to [Myles Walimaa](https://mwalimaa.github.io/portfolio/){target="blank"} for GIS processing R code. 
+CDL members donated their time to complete this web app for the SRFSN. Projects like these provide real-life opportunities to apply new techniques to answer common natural resource questions. 
 
 The CDL is dedicated to fostering curious, independently minded, problem solving scientists. Learn more about the [CDL here](https://conservationdatalab.org/){target="blank"}.  
 
